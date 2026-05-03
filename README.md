@@ -1,7 +1,6 @@
 # Web-based Text Annotation System
 
-<img width="1536" height="1024" src="https://github.com/user-attachments/assets/ae118108-cfde-46f1-830d-cba925c56ac7" alt="Interface concept reconstruction" />
-
+<img width="1536" height="1024" alt="Interface concept reconstruction" src="https://github.com/user-attachments/assets/95b8c4ee-eec6-46f4-8d9f-e15e7f4e7834" />
 </br>
 
 *Concept reconstruction of the main labeling screen — original deployment screenshots no longer available.*
